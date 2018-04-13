@@ -9544,6 +9544,18 @@ body {
 .cid-qBL8qPRNSu .navbar-collapse {
   flex-basis: auto;
 }
+.cid-qP8PO803L4 {
+  background: #ffffff;
+}
+.cid-qP8PO803L4 .video-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 768px) {
+  .cid-qP8PO803L4 .video-block {
+    width: 100% !important;
+  }
+}
 .cid-qP3dNWZV0b .modal-body .close {
   background: #1b1b1b;
 }
